@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
 
 
 # Snowflake Trial Account
-<a href="https://signup.snowflake.com/" target="_blank">https://signup.snowflake.com/</a>
+https://signup.snowflake.com/
 
 <img width="582" alt="image" src="https://user-images.githubusercontent.com/77621960/203312775-292bf981-1bd2-430c-ab02-3b3dc8fc7f39.png">
 
