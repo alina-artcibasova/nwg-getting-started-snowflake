@@ -5,7 +5,6 @@ You are part of a team of data engineers and data scientists at a banking compan
 To build this, you have access to customer demographic and credit history data. Using Snowpark, we will ingest, analyze and transform this data to train a model that will then be deployed inside Snowflake to score new data.
 
 The dataset you are using is part of a Kaggle competition that can be found here:
-Kaggle: Credit Card Approval Prediction
 https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
 
 
