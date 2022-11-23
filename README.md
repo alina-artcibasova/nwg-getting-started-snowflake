@@ -16,7 +16,7 @@ https://signup.snowflake.com/
 
 # Sagemaker Studio
 
-Login Link: https://dashboard.eventengine.run/login?hash=cde4-1cafba38f4-a2
+Login Link: https://dashboard.eventengine.run/login?hash=bdde-1d431cae14-53
 
 ![image](https://user-images.githubusercontent.com/77621960/203314072-c32fb8ad-c4dd-4e8f-8c1f-feb878ba022b.png)
 
